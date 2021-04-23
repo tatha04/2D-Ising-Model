@@ -1,6 +1,6 @@
 # 2D-Ising-Model
 The notebook simulates a 2D Ising Model with nearest neighbor interactions. A system of L x L square lattice with periodic boundary conditions is quenched using the Metrolpolis Algorithm.
-The following is a snapshots taken at different temperatures of the lattice configurations of a 40 x 40 lattice with nearest neighbor ferromagnetic interactions.
+The following are snapshots of the lattice configurations taken at different temperatures, of a 40 x 40 lattice with nearest neighbor ferromagnetic interactions.
 
 ![Snapshots](https://github.com/tatha04/2D-Ising-Model/blob/master/Lattice_config.png)
 
